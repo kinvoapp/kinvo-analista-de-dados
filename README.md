@@ -44,7 +44,7 @@ Sua entrega será avaliada com base na qualidade da análise de dados, eficácia
 Boa sorte e aproveite o desafio!
 
 
-# Script SQL para criar as tabelas "vendas", "produtos" e "clientes":
+## Scripts SQL para criar as tabelas "vendas", "produtos" e "clientes":
 
 ```
 -- Criação da tabela "vendas"
@@ -80,7 +80,7 @@ CREATE TABLE clientes (
 );
 ```
 
-# Script SQL para inserir registros nas tabelas "vendas", "produtos" e "clientes":
+## Scripts SQL para inserir registros nas tabelas "vendas", "produtos" e "clientes":
 
 ```
 -- Inserção de registros na tabela "vendas"
