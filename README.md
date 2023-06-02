@@ -36,13 +36,12 @@ Crie uma view que una as informações das 3 tabelas.
 
 Certifique-se de que sua entrega seja clara, organizada e fácil de entender para uma audiência não técnica. inclua o SQL utilizado para realizar as consultas e criar as visualizações.
 
+O candidato pode decidir em que formato vai enviar o relatório.
 
+Faça um pull request ou envie para o email: rh@kinvo.com.br
 
 ## Avaliação:
 Sua entrega será avaliada com base na qualidade da análise de dados, eficácia das visualizações, relevância dos insights e recomendações, além da clareza e organização da apresentação.
-
-***OBS:*** O candidato pode decidir em que formato vai enviar o relatório.
-
 
 Boa sorte e aproveite o desafio!
 
