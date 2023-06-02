@@ -41,6 +41,9 @@ Certifique-se de que sua entrega seja clara, organizada e fácil de entender par
 ## Avaliação:
 Sua entrega será avaliada com base na qualidade da análise de dados, eficácia das visualizações, relevância dos insights e recomendações, além da clareza e organização da apresentação.
 
+***OBS:*** O candidato pode decidir em que formato vai enviar o relatório.
+
+
 Boa sorte e aproveite o desafio!
 
 
